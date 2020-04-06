@@ -1,0 +1,13 @@
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\bin\Debug\netcoreapp3.1\Perceptron_4_Entradas.exe
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\bin\Debug\netcoreapp3.1\Perceptron_4_Entradas.deps.json
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\bin\Debug\netcoreapp3.1\Perceptron_4_Entradas.runtimeconfig.json
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\bin\Debug\netcoreapp3.1\Perceptron_4_Entradas.runtimeconfig.dev.json
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\bin\Debug\netcoreapp3.1\Perceptron_4_Entradas.dll
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\bin\Debug\netcoreapp3.1\Perceptron_4_Entradas.pdb
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\obj\Debug\netcoreapp3.1\Perceptron_4_Entradas.csprojAssemblyReference.cache
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\obj\Debug\netcoreapp3.1\Perceptron_4_Entradas.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\obj\Debug\netcoreapp3.1\Perceptron_4_Entradas.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\obj\Debug\netcoreapp3.1\Perceptron_4_Entradas.AssemblyInfo.cs
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\obj\Debug\netcoreapp3.1\Perceptron_4_Entradas.dll
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\obj\Debug\netcoreapp3.1\Perceptron_4_Entradas.pdb
+C:\Users\Miguel Angel Mtz\source\repos\Perceptron_4_Entradas\Perceptron_4_Entradas\obj\Debug\netcoreapp3.1\Perceptron_4_Entradas.genruntimeconfig.cache
